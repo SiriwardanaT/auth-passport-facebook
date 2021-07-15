@@ -1,0 +1,66 @@
+.login_container{
+    background-color: rgb(26, 25, 25);
+    position: absolute;
+    width:300px;
+    height:400px;
+    top:20%;
+    left:40%;
+    right:60%;
+    border-radius:9px;
+    
+}
+.form{
+    text-align: center;
+    margin-top:34px;
+}
+.form h3{
+    text-align: center;
+    color:rgb(255, 255, 255);
+}
+.mb-3{
+    margin-left:12px;
+    margin-right:12px;
+
+}
+.btn.btn-primary{
+    font-weight: 500;
+   
+    
+}
+.d-grid.gap-2.col-6.mx-auto{
+    width:90%;
+    
+}
+
+#facebook{
+    margin-top:6px;
+    font-size:2px;
+    
+
+    
+}
+.d-grid.gap-2.col-6.mx-auto i{
+    font-size:5px;
+    position: absolute;
+    left:31px;
+    top:72%;
+    font-weight:700;
+}
+.gitsvg{
+    position:absolute;
+    top:82%;
+    left:10%;
+    font-weight: 700;
+}
+.btn.btn-warning{
+    font-weight: 500;
+   
+    
+}
+.btn.btn-light{
+    font-weight: 500;
+}
+.d-grid.gap-2.col-6.mx-auto a button{
+    width:100%;
+}
+

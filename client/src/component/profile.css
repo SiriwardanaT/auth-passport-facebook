@@ -1,0 +1,34 @@
+.profile{
+    position:absolute;
+    top:50%;
+    width:100px;
+    border-radius:50px;
+    left:62%;
+}
+.username{
+    
+   margin-top: 40px;
+    
+    
+
+}
+.my_container{
+    margin-top:50px;
+    color: black;
+ 
+    
+}
+
+.img_container{
+   position:absolute;
+
+}
+.profile_container{
+    margin-left:30%;
+}
+#logout{
+    position:absolute;
+    top:10%;
+    left:90%;
+
+}
